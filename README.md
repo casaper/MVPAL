@@ -4,8 +4,37 @@ Only for myself actually, but if you read this, blame yourself... ;)
 
 It is a **UN**-curated awesome list
 - [MVPAL (My very personal awesome list)](#mvpal-my-very-personal-awesome-list)
+  - [Development](#development)
+    - [Frontend](#frontend)
+      - [CSS](#css)
+        - [Flexbox](#flexbox)
+        - [Grid](#grid)
+      - [Fonts](#fonts)
   - [Mac CLI](#mac-cli)
   - [Infotainment](#infotainment)
+
+## Development
+
+### Frontend
+
+#### CSS
+
+##### Flexbox
+
+- [Flexy Boxes](http://the-echoplex.net/flexyboxes/) - Flexbox Playground
+- [Flexboxdefense](http://www.flexboxdefense.com/) - Tower Defense with a twist: all towers must be positioned with CSS Flexbox.
+
+##### Grid
+
+- [css-tricks.com - A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [cssgridplayground.com](https://www.cssgridplayground.com/) - Try out CSS-Grid live
+
+#### Fonts
+
+- [FontCDN](http://fontcdn.org/) - A search tool for Google web fonts
+- [Transfonter](https://transfonter.org/) - Modern and simple css @font-face generator
+- [Fontello](http://fontello.com/) - Icon fonts generator
+- [Dev Fonts](http://www.lowing.org/fonts/) - Monospace/Fixed Width Programmer's Fonts
 
 ## Mac CLI
 
