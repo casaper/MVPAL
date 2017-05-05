@@ -5,6 +5,7 @@ Only for myself actually, but if you read this, blame yourself... ;)
 It is a **UN**-curated awesome list
 - [MVPAL (My very personal awesome list)](#mvpal-my-very-personal-awesome-list)
   - [Mac CLI](#mac-cli)
+  - [Infotainment](#infotainment)
 
 ## Mac CLI
 
@@ -12,3 +13,7 @@ It is a **UN**-curated awesome list
 - [buo/homebrew-cask-upgrade - brew cu](https://github.com/buo/homebrew-cask-upgrade) - A command line tool for upgrading every outdated app installed by Homebrew Cask
 - [skwp/dotfiles - YADR](https://github.com/skwp/dotfiles) - (*Yet Another Dotfile Repo*) - The best vim,git,zsh plugins and the cleanest vimrc you've ever seen
 - [wting/autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
+
+## Infotainment
+
+- [MediathekViewWeb](https://mediathekviewweb.de/) - Bypass the often flash prone streaming offered by German, Swiss and Austrian public TV and have them searchable in one page
