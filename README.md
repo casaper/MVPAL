@@ -17,6 +17,8 @@ It is a **UN**-*curated* ~~awesome~~ list
 	- [JavaScript](#javascript)
 		- [Playgrounds](#playgrounds)
 			- [React](#react)
+	- [Rails](#rails)
+		- [Articles](#articles)
 	- [Ruby](#ruby)
 		- [Tools](#tools)
 		- [Playgrounds](#playgrounds-1)
@@ -92,6 +94,11 @@ It is a **UN**-*curated* ~~awesome~~ list
 [repl.it — React](https://repl.it/repls/AnyVivaciousNumber)
 [repl.it — React Typescript](https://repl.it/repls/ViciousRedundantRuby)
 
+## Rails
+
+### Articles
+
+[UUID Primary Key in Rails 6 with PostgreSQL](https://pawelurbanek.com/uuid-order-rails) — a Medium article.
 
 ## Ruby
 
