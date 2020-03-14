@@ -22,6 +22,7 @@ It is a **UN**-*curated* ~~awesome~~ list
 	- [Ruby](#ruby)
 		- [Tools](#tools)
 		- [Playgrounds](#playgrounds-1)
+		- [Articles](#articles-1)
 - [System](#system)
 	- [Mac CLI](#mac-cli)
 - [Infotainment](#infotainment)
@@ -110,6 +111,11 @@ It is a **UN**-*curated* ~~awesome~~ list
 
 [glot.io - Ruby](https://glot.io/new/ruby)
 [repl.it - Rails playground](https://repl.it/repls/TiredPeriodicParallelport)
+
+### Articles
+
+[Ruby Metaprogramming Is Even Cooler Than It Sounds](https://www.toptal.com/ruby/ruby-metaprogramming-cooler-than-it-sounds)
+
 
 #  System
 
