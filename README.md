@@ -31,13 +31,13 @@ It is a **UN**-*curated* ~~awesome~~ list
 ### SQL-ish
 
 [SQL Fiddle](http://sqlfiddle.com/)   
-[mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
+[mycli](https://github.com/dbcli/mycli) — A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
 
 ## Frontend
 
 ### CSS
 
-[TestMyCSS](http://www.testmycss.com) - CSS Optimization Checker
+[TestMyCSS](http://www.testmycss.com) — CSS Optimization Checker
 
 #### Animations
 [Keyframer](http://alexberg.in/keyframer/)[Stylie](http://jeremyckahn.github.io/stylie/)
@@ -45,34 +45,34 @@ It is a **UN**-*curated* ~~awesome~~ list
 
 #### Flexbox
 
-[Flexy Boxes](http://the-echoplex.net/flexyboxes/) - Flexbox Playground
-[Flexboxdefense](http://www.flexboxdefense.com) - Tower Defense with a twist: all towers must be positioned with CSS Flexbox.
+[Flexy Boxes](http://the-echoplex.net/flexyboxes/) — Flexbox Playground
+[Flexboxdefense](http://www.flexboxdefense.com) — Tower Defense with a twist: all towers must be positioned with CSS Flexbox.
 [Flexbox Properties Demonstration](http://codepen.io/justd/pen/yydezN)
 
 #### Grid
 
-[css-tricks.com - A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
-[cssgridplayground.com](https://www.cssgridplayground.com) - Try out CSS-Grid live
+[css-tricks.com — A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+[cssgridplayground.com](https://www.cssgridplayground.com) — Try out CSS-Grid live
 
 ### Colours
 
-[Find one of 17'000+ color names](https://codepen.io/meodai/full/mEvZRx) - codepen for color names
-[palettr.com](http://palettr.com/) - Generate fresh, new color palettes inspired by a theme or a place. 
-[colormind.io](http://colormind.io/) - Colormind can extract color palettes from images
+[Find one of 17'000+ color names](https://codepen.io/meodai/full/mEvZRx) — codepen for color names
+[palettr.com](http://palettr.com/) — Generate fresh, new color palettes inspired by a theme or a place. 
+[colormind.io](http://colormind.io/) — Colormind can extract color palettes from images
 
 ### Fonts
 
-[CSS Font Stack](http://www.cssfontstack.com) - Web Safe and Web Font Family with HTML and CSS code
-[Dev Fonts](http://www.lowing.org/fonts/) - Monospace/Fixed Width Programmer's Fonts
-[Font Flame](http://app.fontflame.com/) - Tinder for font pairing
-[Font Squirrel](https://www.fontsquirrel.com/tools/webfont-generator) - Webfont generator
-[FontCDN](http://fontcdn.org) - A search tool for Google web fonts
-[Fontello](http://fontello.com) - Icon fonts generator
-[Transfonter](https://transfonter.org) - Modern and simple css @font-face generator
+[CSS Font Stack](http://www.cssfontstack.com) — Web Safe and Web Font Family with HTML and CSS code
+[Dev Fonts](http://www.lowing.org/fonts/) — Monospace/Fixed Width Programmer's Fonts
+[Font Flame](http://app.fontflame.com/) — Tinder for font pairing
+[Font Squirrel](https://www.fontsquirrel.com/tools/webfont-generator) — Webfont generator
+[FontCDN](http://fontcdn.org) — A search tool for Google web fonts
+[Fontello](http://fontello.com) — Icon fonts generator
+[Transfonter](https://transfonter.org) — Modern and simple CSS @font-face generator
 
 #### Icon Fonts
 
-[Awesome Web Icons](https://github.com/vkarampinis/awesome-icons) - awesome list with awesome icon fonts
+[Awesome Web Icons](https://github.com/vkarampinis/awesome-icons) — awesome list with awesome icon fonts
 
 ## JavaScript
 
@@ -81,16 +81,17 @@ It is a **UN**-*curated* ~~awesome~~ list
 [Babel REPL](https://babeljs.io/repl)
 [CodePen](https://codepen.io/pen/)
 [D3-JS Playground](http://phrogz.net/JS/d3-playground/#BlankDefault)
-[glot.io - JavaScript](https://glot.io/new/javascript)
-[glot.io - TypeScript](https://glot.io/new/typescript)
+[glot.io — JavaScript](https://glot.io/new/javascript)
+[glot.io — TypeScript](https://glot.io/new/typescript)
 [JS Bin](http://jsbin.com/?js,console)
 [JSFiddle](http://jsfiddle.net/)
-[repl.it - Node](https://repl.it/repls/GiantFittingComputing)
+[repl.it — Node](https://repl.it/repls/GiantFittingComputing)
 
 #### React
 
-[repl.it - React](https://repl.it/repls/AnyVivaciousNumber)
-[repl.it - React Typescript](https://repl.it/repls/ViciousRedundantRuby)
+[repl.it — React](https://repl.it/repls/AnyVivaciousNumber)
+[repl.it — React Typescript](https://repl.it/repls/ViciousRedundantRuby)
+
 
 ## Ruby
 
