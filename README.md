@@ -25,7 +25,6 @@ It is a **UN**-*curated* ~~awesome~~ list
 		- [Articles](#articles-1)
 - [System](#system)
 	- [Mac CLI](#mac-cli)
-- [Infotainment](#infotainment)
 
 # Development
 
@@ -126,7 +125,3 @@ It is a **UN**-*curated* ~~awesome~~ list
 [skwp/dotfiles - YADR](https://github.com/skwp/dotfiles) - (*Yet Another Dotfile Repo*) - The best vim,git,zsh plugins and the cleanest vimrc you've ever seen
 [wting/autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
 [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) - Mac Awesome list
-
-# Infotainment
-
-[MediathekViewWeb](https://mediathekviewweb.de) - Bypass the often flash prone streaming offered by German, Swiss and Austrian public TV and have them searchable in one page
